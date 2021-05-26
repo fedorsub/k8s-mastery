@@ -1,0 +1,3 @@
+/.pytest_cache
+sa-frontend/build/
+sa-frontend/node_modules/
